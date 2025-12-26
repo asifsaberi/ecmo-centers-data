@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Wellstar Kennestone Hospital",
+    "city": "Marietta",
+    "state": "GA",
+    "zipCode": "30060",
+    "contactPhone": "(770) 793-5000",
+    "latitude": 33.9526,
+    "longitude": -84.5199
+  },
+  {
+    "id": 2,
+    "name": "Emory University Hospital",
+    "city": "Atlanta",
+    "state": "GA",
+    "zipCode": "30322",
+    "contactPhone": "(404) 712-2000",
+    "latitude": 33.7898,
+    "longitude": -84.3235
+  },
+  {
+    "id": 3,
+    "name": "Grady Memorial Hospital",
+    "city": "Atlanta",
+    "state": "GA",
+    "zipCode": "30303",
+    "contactPhone": "(404) 616-1000",
+    "latitude": 33.7529,
+    "longitude": -84.3897
+  },
+  {
+    "id": 4,
+    "name": "Children's Healthcare of Atlanta",
+    "city": "Atlanta",
+    "state": "GA",
+    "zipCode": "30322",
+    "contactPhone": "(404) 785-6000",
+    "latitude": 33.7982,
+    "longitude": -84.3247
+  },
+  {
+    "id": 5,
+    "name": "Piedmont Atlanta Hospital",
+    "city": "Atlanta",
+    "state": "GA",
+    "zipCode": "30309",
+    "contactPhone": "(404) 605-5000",
+    "latitude": 33.7939,
+    "longitude": -84.3682
+  }
+]
